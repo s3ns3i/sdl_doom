@@ -1,0 +1,4 @@
+{
+  "c-cpp-flylint.clang.enable": false,
+  "c-cpp-flylint.flexelint.enable": false
+}
